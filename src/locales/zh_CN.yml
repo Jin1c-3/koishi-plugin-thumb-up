@@ -1,7 +1,7 @@
 commands:
   thumb-up:
     description: 给指定用户点赞
-    usage: -|
+    usage: |-
       赞我
       超我
       草他 @Bob
