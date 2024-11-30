@@ -1,5 +1,10 @@
 commands:
   thumb-up:
+    description: 给指定用户点赞
+    usage: -|
+      赞我
+      超我
+      草他 @Bob
     messages:
       no_user: 请指定一个用户
       success: 给{0}{1}了{2}下~记得回我哦~
