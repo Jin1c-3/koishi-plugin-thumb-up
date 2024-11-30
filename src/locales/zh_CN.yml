@@ -1,0 +1,6 @@
+commands:
+  thumb-up:
+    messages:
+      no_user: 请指定一个用户
+      success: 给{0}{1}了{2}下~记得回我哦~
+      failed: 点赞失败，请检查是否开启陌生人点赞或添加好友，否则已经赞过啦~

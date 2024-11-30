@@ -1,22 +1,24 @@
 {
   "name": "koishi-plugin-thumb-up",
-  "description": "高阶QQ名片赞！赞你赞我赞他赞大家！",
+  "description": "高阶QQ名片赞！赞你赞我赞大家！",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jin1c-3/koishi-plugin-thumb-up.git"
+  },
   "files": [
     "lib",
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
-    "koishi": "4.18.1"
+    "koishi": "^4.18.0"
   }
 }
